@@ -58,5 +58,14 @@ Key findings:
 ---
 
 ## 📁 Project Structure
-
+Bank_Churn_prediction/
+├── bank churn - 2025.ipynb # Main notebook with EDA, modeling, SHAP
+├── Images/ # Folder for plots and model visuals
+│ ├── geo.png
+│ ├── gen.png
+│ ├── age.png
+│ ├── shap_summary.png
+│ └── confusion_matrix.png
+├── README.md # Project overview and documentation
+└── .gitignore # Git ignore rules (auto-generated)
 
